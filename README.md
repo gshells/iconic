@@ -1,6 +1,6 @@
-# PngToIcoConverter
+# iconic
 
-PngToIcoConverter is a C# Console application that automates the process of converting high-quality PNG images to ICO files. The application scans a specified folder for image files (PNG, JPEG, BMP) and converts them into ICO files with multiple resolutions, preserving the original file names. This utility is designed to create high-quality ICO files for various applications, such as application icons, favicons, or any other use cases where an ICO format is required.
+iconic is a C# Console application that automates the process of converting high-quality PNG images to ICO files. The application scans a specified folder for image files (PNG, JPEG, BMP) and converts them into ICO files with multiple resolutions, preserving the original file names. This utility is designed to create high-quality ICO files for various applications, such as application icons, favicons, or any other use cases where an ICO format is required.
 
 ## Requirements
 
